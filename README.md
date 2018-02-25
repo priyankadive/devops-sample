@@ -1,2 +1,2 @@
 # devops-sample
-test sample CI CD
+test sample CI CD pipeline
